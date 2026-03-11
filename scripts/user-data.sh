@@ -1,0 +1,17 @@
+#!/bin/bash
+
+sleep 10
+
+cd home
+
+cd ubuntu
+
+cd se-sparta-test-app
+
+cd app
+
+pm2 kill
+
+npm install
+
+pm2 start app.js

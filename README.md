@@ -47,6 +47,17 @@ Contains screenshots used in the documentation for AWS setup steps.
 
 ---
 
+# Application Source
+
+The Node.js application used in this project is not included in this repository.  
+It is cloned during deployment using the setup script.
+
+Application repository:
+
+https://github.com/kushima028/nodejs20-se-test-app-2025
+
+---
+
 # Key Technologies
 
 - **AWS EC2**

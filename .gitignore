@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment variables
+.env
+
+# SSH keys
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local copy of the test application
+day2/
